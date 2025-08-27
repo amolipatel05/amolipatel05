@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hello👋I am Amoli Patel!
+
+#I am an Honors student at Northeastern University pursuing a Bachelor of Science in Computer Science and Business Administration, with a concentration in Marketing Analytics.
 
 <!--
-**amolipatel05/amolipatel05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
