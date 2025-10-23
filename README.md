@@ -1,6 +1,6 @@
 ## Hello👋I am Amoli Patel!
 
-I am an Honors student at Northeastern University pursuing a Bachelor of Science in Computer Science and Business Administration, with a concentration in Marketing Analytics.
+I am an Honors student at Northeastern University pursuing a Bachelor's degree in Computer Science and Business Administration, with a concentration in Marketing Analytics.
 
 📫 How to reach me: amolipatel0506@gmail.com
 
