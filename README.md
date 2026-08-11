@@ -4,7 +4,9 @@ I am an Honors student at Northeastern University pursuing a Bachelor's degree i
 
 📫 How to reach me: amolipatel0506@gmail.com
 
+<!--
 💻 My personal website: https://amolipatel.com/
+--> 
 
 🔗 My LinkedIn profile: https://www.linkedin.com/in/amoli-patel/
 
